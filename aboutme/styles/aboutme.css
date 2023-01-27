@@ -1,0 +1,24 @@
+body {
+    text-align: center;
+  }
+  
+a  {
+    stroke: black;
+    fill: none;
+    stroke-width: 1px;
+}
+
+p {
+    stroke: #777;
+    fill: none;
+    stroke-width: 1px;
+}
+
+h1  {
+    display: none;
+}
+
+h2 {
+    stroke: none;
+    fill: black;
+}
